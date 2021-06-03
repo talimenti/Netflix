@@ -1,0 +1,7 @@
+coverage/
+node_modules/
+netflixdb-tests.json
+*.js
+*.d.ts
+.env
+.env*
